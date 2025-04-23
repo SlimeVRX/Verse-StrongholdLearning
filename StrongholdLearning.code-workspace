@@ -1,0 +1,55 @@
+{
+    "folders": [
+        {
+            "name": "StrongholdLearning",
+            "path": "C:/Users/tin.nt/Documents/Fortnite Projects/StrongholdLearning/Plugins/StrongholdLearning/Content"
+        },
+        {
+            "name": "StrongholdLearning/Assets",
+            "path": "C:/Users/tin.nt/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/StrongholdLearning/StrongholdLearning-Assets"
+        },
+        {
+            "name": "vproject - DO NOT MODIFY",
+            "path": "C:/Users/tin.nt/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/StrongholdLearning/vproject"
+        },
+        {
+            "name": "Verse",
+            "path": "C:/Users/tin.nt/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/StrongholdLearning/Verse"
+        },
+        {
+            "name": "UnrealEngine",
+            "path": "C:/Users/tin.nt/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/StrongholdLearning/UnrealEngine"
+        },
+        {
+            "name": "Fortnite",
+            "path": "C:/Users/tin.nt/AppData/Local/UnrealEditorFortnite/Saved/VerseProject/StrongholdLearning/Fortnite"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/*.uasset": true,
+            "**/*.umap": true,
+            "**/*.png": true,
+            "**/*.jpg": true,
+            "**/*.tga": true,
+            "_INT": true,
+            "**/*.vproject": true,
+            "__ExternalActors__": true,
+            "__ExternalObjects__": true
+        },
+        "files.autoSave": "onWindowChange",
+        "editor.bracketPairColorization.enabled": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "launch": {
+        "version": "0.2.0",
+        "configurations": [
+            {
+                "name": "Verse Debug",
+                "type": "verse",
+                "request": "attach",
+                "debugServer": 1961
+            }
+        ]
+    }
+}
